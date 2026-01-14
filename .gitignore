@@ -1,0 +1,12 @@
+﻿# build outputs
+bin/
+obj/
+
+# user-specific
+*.user
+*.suo
+*.userprefs
+.vscode/
+
+# logs
+*.log
