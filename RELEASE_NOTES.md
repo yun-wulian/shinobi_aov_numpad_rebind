@@ -1,4 +1,8 @@
-# Release notes
+﻿# Release notes
+
+## v0.1.1
+
+- Adds a ready-to-extract zip with the correct `BepInEx\plugins\` folder structure.
 
 ## v0.1.0
 
@@ -11,3 +15,6 @@
 3. Copy `NumpadRebind.dll` into:
    - `<GameRoot>\BepInEx\plugins\NumpadRebind.dll`
 
+Notes:
+- Known-good BepInEx IL2CPP build for Unity `2021.3.45f1` / IL2CPP metadata v31:
+  - https://builds.bepinex.dev/projects/bepinex_be/752/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.752%2Bdd0655f.zip

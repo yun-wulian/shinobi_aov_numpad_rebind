@@ -20,5 +20,5 @@ jobs:
         with:
           files: |
             dist/NumpadRebind.dll
+            dist/NumpadRebind-BepInExPlugins.zip
           body_path: RELEASE_NOTES.md
-
