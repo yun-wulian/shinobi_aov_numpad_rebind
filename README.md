@@ -8,7 +8,12 @@ This mod is a **BepInEx IL2CPP** plugin.
 
 Users must install BepInEx IL2CPP for the game first (this creates the `dotnet/` folder and `BepInEx/` loader setup).
 
-Known-good BepInEx IL2CPP build for Unity `2021.3.45f1` / IL2CPP metadata v31:
+### BepInEx download
+
+- BepInEx build site (recommended for IL2CPP bleeding-edge builds): https://builds.bepinex.dev/
+- Project page: https://builds.bepinex.dev/projects/bepinex_be
+
+Known-good BepInEx IL2CPP build for Unity `2021.3.45f1` / IL2CPP metadata v31 (Windows x64):
 
 - `BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.752+dd0655f.zip`
 - https://builds.bepinex.dev/projects/bepinex_be/752/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.752%2Bdd0655f.zip

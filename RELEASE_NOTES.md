@@ -16,5 +16,7 @@
    - `<GameRoot>\BepInEx\plugins\NumpadRebind.dll`
 
 Notes:
-- Known-good BepInEx IL2CPP build for Unity `2021.3.45f1` / IL2CPP metadata v31:
+- BepInEx build site: https://builds.bepinex.dev/
+- BepInEx project page: https://builds.bepinex.dev/projects/bepinex_be
+- Known-good BepInEx IL2CPP build for Unity `2021.3.45f1` / IL2CPP metadata v31 (Windows x64):
   - https://builds.bepinex.dev/projects/bepinex_be/752/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.752%2Bdd0655f.zip
